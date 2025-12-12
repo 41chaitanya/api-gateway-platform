@@ -1,0 +1,30 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+build/
+.gradle/
+
+# IntelliJ IDEA
+.idea/
+*.ipr
+*.iws
+
+# VSCode
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
