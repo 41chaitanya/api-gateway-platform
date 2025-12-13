@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+custom:
+  message: "Gateway running in DEV"
